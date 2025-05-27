@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  kiraz-ai:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "94.130.19.48:80:80"
+    restart: unless-stopped
+

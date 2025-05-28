@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our team brings together researchers from CWI and the University of Edinburgh, combining expertise in artificial intelligence, machine learning, and related fields. We are committed to advancing the frontiers of AI research while fostering a collaborative and innovative environment.
 
 {% include section.html %}
 
@@ -18,9 +16,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We are always looking for talented researchers and students who are passionate about artificial intelligence and machine learning. If you're interested in joining our team, please don't hesitate to reach out.
 
 {% include section.html %}
 

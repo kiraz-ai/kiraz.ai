@@ -1,18 +1,18 @@
 # site properties and page defaults
-title: Lab Website Template
-subtitle: by the Greene Lab
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+title: Kiraz.AI
+subtitle: Artificial Intelligence Research Lab
+description: A research lab focused on advancing artificial intelligence and machine learning, with members from CWI and University of Edinburgh.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@your-lab.com
+  email: contact@kiraz.ai
   orcid: 0000-0001-8713-9213
   google-scholar: ETJoidYAAAAJ
-  github: your-lab
-  twitter: YourLabHandle
+  github: kiraz-ai
+  twitter: KirazAI
   youtube: YourLabChannel
 
 ### jekyll settings

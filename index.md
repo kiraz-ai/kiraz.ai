@@ -1,21 +1,15 @@
 ---
 ---
 
-# Lab Website Template
+# Kiraz.AI
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/).
-Spend less time worrying about managing a website and citations, and more time running your lab.
+Welcome to Kiraz.AI, a research lab at the intersection of artificial intelligence and machine learning. Our lab brings together researchers from CWI and the University of Edinburgh to push the boundaries of AI research.
 
-{%
-  include button.html
-  type="docs"
-  link="https://greene-lab.gitbook.io/lab-website-template-docs"
-%}
 {%
   include button.html
   type="github"
   text="On GitHub"
-  link="greenelab/lab-website-template"
+  link="kiraz-ai"
 %}
 
 {% include section.html %}
@@ -24,7 +18,7 @@ Spend less time worrying about managing a website and citations, and more time r
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our research focuses on advancing the state-of-the-art in artificial intelligence and machine learning. We work on fundamental problems in AI while maintaining strong connections to real-world applications.
 
 {%
   include button.html
@@ -47,7 +41,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We collaborate on various projects that combine theoretical insights with practical applications. Our work spans multiple domains including natural language processing, computer vision, and reinforcement learning.
 
 {%
   include button.html
@@ -72,7 +66,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our team consists of researchers from prestigious institutions including CWI and the University of Edinburgh. We are led by Murat Bilgehan Ertan and Emirhan Böge, bringing together diverse expertise in AI research.
 
 {%
   include button.html
